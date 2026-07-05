@@ -31,11 +31,11 @@ I have used Onshape for my case. It is a simple sanwich case with hole made for 
 
 ## BOM
 -Here are things you need to make "Why not?" !!!
--**1x Unsoldered Seeed Studio XIAO RP2040**
--**5x MX-Style Mechanical Switches**
--**1x EC11 Rotary Encoder**
--**1x 0.91-inch OLED Display** 
--**2x SK6812 MINI-E LEDs** 
--**5x White Blank DSA Keycaps**
--**4x M3x16mm Screws**
--**4x M3x5mmx4mm Heatset Brass Inserts**
+- **1x Unsoldered Seeed Studio XIAO RP2040**
+- **5x MX-Style Mechanical Switches**
+- **1x EC11 Rotary Encoder**
+- **1x 0.91-inch OLED Display** 
+- **2x SK6812 MINI-E LEDs** 
+- **5x White Blank DSA Keycaps**
+- **4x M3x16mm Screws**
+- **4x M3x5mmx4mm Heatset Brass Inserts**
