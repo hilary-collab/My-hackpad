@@ -18,20 +18,24 @@ This Hackpad used QMK Firmware- but certain changes might be make afterwards !
 
 ## PCB
 Here is my pcb ! It is made in Kicad.
-schmetic
-routing
+-schmetic
+<img width="952" height="615" alt="image" src="https://github.com/user-attachments/assets/b3579127-eba9-403e-b1eb-19fd22ca2a33" />
+
+-routing
+<img width="749" height="541" alt="image" src="https://github.com/user-attachments/assets/8b9c514f-1289-420f-9654-ccddca55106b" />
 
 ## Case
 I have used Onshape for my case. It is a simple sanwich case with hole made for type c on the right.
+<img width="1060" height="506" alt="image" src="https://github.com/user-attachments/assets/6576bbfb-668c-40e6-b82b-978f20894aec" />
 
 
 ## BOM
-Here are things you need to make "Why not?" !!!
-1x Unsoldered Seeed Studio XIAO RP2040 
-5x MX-Style Mechanical Switches 
-1x EC11 Rotary Encoder 
-1x 0.91-inch OLED Display 
-2x SK6812 MINI-E LEDs 
-5x White Blank DSA Keycaps 
-4x M3x16mm Screws
-4x M3x5mmx4mm Heatset Brass Inserts
+-Here are things you need to make "Why not?" !!!
+-1x Unsoldered Seeed Studio XIAO RP2040 
+-5x MX-Style Mechanical Switches 
+-1x EC11 Rotary Encoder 
+-1x 0.91-inch OLED Display 
+-2x SK6812 MINI-E LEDs 
+-5x White Blank DSA Keycaps 
+-4x M3x16mm Screws
+-4x M3x5mmx4mm Heatset Brass Inserts
