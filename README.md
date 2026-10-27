@@ -29,6 +29,8 @@ Here is my pcb ! It is made in Kicad.
 I have used Onshape for my case. It is a simple sanwich case with hole made for type c on the right.
 <img width="596" height="470" alt="image" src="https://github.com/user-attachments/assets/97176822-a8b4-473b-aafb-00cb721af243" />
 
+<img width="573" height="476" alt="image" src="https://github.com/user-attachments/assets/beb59531-55ac-403c-8154-cbc88be1c2a0" />
+
 
 
 ## BOM
