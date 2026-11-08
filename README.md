@@ -35,7 +35,7 @@ I have used Onshape for my case. It is a simple sanwich case with hole made for 
 
 ## BOM
 -Here are things you need to make "Why not?" !!!
-
+BOM file is atached up there 
 - **1x Unsoldered Seeed Studio XIAO RP2040**
 - **5x MX-Style Mechanical Switches**
 - **1x EC11 Rotary Encoder**
